@@ -1,3 +1,3 @@
-# Connect 4 using minmax algorithm
+# Connect 4
 
-ThE Connect 4 game is implemented using minmax algorithm.
+The Connect 4 game is implemented using minmax algorithm.
